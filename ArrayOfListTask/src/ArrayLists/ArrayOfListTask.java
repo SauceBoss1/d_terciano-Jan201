@@ -70,6 +70,5 @@ public class ArrayOfListTask {
 		} else {
 			return (x - x % 10) / 1000;
 		}
-	}
-	
+	}	
 }
